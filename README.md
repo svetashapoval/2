@@ -3,7 +3,7 @@
 <head>
 <title>План колонізації Марсу</title>
 </head>
-<body>
+<body style="background-color: lightgray;">
 <h1 style="text-align: center;">План колонізації Марсу</h1>
 <h2 style="text-align: center;">Бачення</h2>
 <p style="font-family: Arial;font-size: 16px;">
@@ -18,3 +18,7 @@
 </ol>
 
 <h2 style="text-align: center;">Фото</h2>
+  <p>
+    <img src="">
+    <img src="">
+  </p>
