@@ -20,7 +20,7 @@
 <h2 style="text-align: center;">Фото</h2>
   <p style="text-align: center;">
     <img src="image2.jpg" style="width:300px;">
-    <img src="![image1](https://user-images.githubusercontent.com/130224057/230771621-605f5512-394c-4721-8057-5972cd10338a.jpg)" style="width:300px;">
+    <img src="![image1].jpg" style="width:300px;">
   </p>
   </body>
 </html>
