@@ -19,6 +19,6 @@
 
 <h2 style="text-align: center;">Фото</h2>
   <p>
-    <img src="![image1]">
+    <img src="image1.jpg">
     <img src="">
   </p>
