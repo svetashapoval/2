@@ -19,6 +19,6 @@
 
 <h2 style="text-align: center;">Фото</h2>
   <p>
-    <img src="">
+    <img src="![image1](https://user-images.githubusercontent.com/130224057/230770501-caf5ef29-412c-48a3-8f10-7d0208e082e8.jpg)">
     <img src="">
   </p>
