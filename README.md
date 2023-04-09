@@ -18,7 +18,8 @@
 </ol>
 
 <h2 style="text-align: center;">Фото</h2>
-    <img src="image1.jpg">
-    <img src="image2.jpg">
+  <p style="text-align: center;">
+    <img src="image1.jpg" style="width:300px;">
+    <img src="image2.jpg" style="width:300px;">
   </body>
 </html>
