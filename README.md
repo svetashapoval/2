@@ -19,10 +19,9 @@
 
 <h2 style="text-align: center;">Фото</h2>
   <p style="text-align: center;">
-    <img src="image1.jpg" style="width:300px;">
-    <img src="image2.jpg" style="width:300px;">
+    <img src="![image2](https://user-images.githubusercontent.com/130224057/230771618-26fc863f-fb4b-4825-8f5c-2f64bdab9fa1.jpg).jpg" style="width:300px;">
+    <img src="![image1](https://user-images.githubusercontent.com/130224057/230771621-605f5512-394c-4721-8057-5972cd10338a.jpg).jpg" style="width:300px;">
   </p>
   </body>
 </html>
-![image2](https://user-images.githubusercontent.com/130224057/230771618-26fc863f-fb4b-4825-8f5c-2f64bdab9fa1.jpg)
-![image1](https://user-images.githubusercontent.com/130224057/230771621-605f5512-394c-4721-8057-5972cd10338a.jpg)
+
