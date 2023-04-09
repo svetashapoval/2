@@ -21,5 +21,6 @@
   <p style="text-align: center;">
     <img src="image1.jpg" style="width:300px;">
     <img src="image2.jpg" style="width:300px;">
+  </p>
   </body>
 </html>
