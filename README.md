@@ -18,7 +18,7 @@
 </ol>
 
 <h2 style="text-align: center;">Фото</h2>
-  <p>
-    <img src="C:\Users\lenovo\Downloads\image1.jpg">
+    <img src="image1.jpg">
     <img src="image2.jpg">
-  </p>
+  </body>
+</html>
